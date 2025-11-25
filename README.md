@@ -78,8 +78,7 @@ Server will run on `http://localhost:4000`
 
 ## API Documentation
 
-You can import the provided Postman collection:
-`postman_collection.json`
+You can find the full API documentation [here](https://docs.google.com/document/d/195dpHSqhIyksMSD_cA_DHFBdaZU-2-d0tKLiIYqTVR8/edit?usp=sharing).
 
 It includes routes for:
 
